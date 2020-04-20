@@ -9,7 +9,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
 const app_controller_1 = require("./app.controller");
 const app_service_1 = require("./app.service");
-const states_controller_1 = require("./states/states.controller");
+const states_controller_1 = require("./controllers/states.controller");
 let AppModule = class AppModule {
 };
 AppModule = __decorate([

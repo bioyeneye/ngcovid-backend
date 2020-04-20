@@ -22,7 +22,7 @@ __decorate([
     common_1.Get('/'),
     __param(0, common_1.Req()),
     __metadata("design:type", Function),
-    __metadata("design:paramtypes", [Request]),
+    __metadata("design:paramtypes", [Object]),
     __metadata("design:returntype", String)
 ], StatesController.prototype, "getIndex", null);
 StatesController = __decorate([
