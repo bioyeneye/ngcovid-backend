@@ -1274,7 +1274,7 @@
         "signature": "7b5ed961a0e03965299591d73de8b8c41e8a68105ff4fc07a240b0dfb94a5a3d"
       },
       "../src/main.ts": {
-        "version": "55abb45b0273eb207e02d5fbeea25be62e3a4cb46d46bb51b8546199acbf4747",
+        "version": "0e1add4d624e60bc5cbc5283e382a51aa69339bbd57c0d94e0d37c2804a7ddb0",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../node_modules/@types/anymatch/index.d.ts": {
